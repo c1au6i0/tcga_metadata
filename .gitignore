@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+data/prad_tcga_legacy/
+renv/library/R-4.0/x86_64-apple-darwin17.0/org.Hs.eg.db/extdata/org.Hs.eg.sqlite
+renv/library/R-4.0/x86_64-apple-darwin17.0/magick/libs/magick.so.dSYM/Contents/Resources/DWARF/magick.so
